@@ -1,4 +1,4 @@
-from mongo_manager import MongoManager
+from mongo_manager.base import MongoManager
 from datetime import datetime, timedelta
 import random
 
